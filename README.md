@@ -1,2 +1,5 @@
 # hello-world
-My first repository
+
+I really enjoy spending quality time with my cat
+
+:) 
